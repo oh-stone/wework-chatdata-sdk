@@ -15,6 +15,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/oh-stone/wework-chatdata-sdk" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1mmaPvvq8l3gikSxQNgYRUVTcrr" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -36,11 +43,34 @@
       <option name="presentableId" value="Default" />
       <updated>1610101199376</updated>
       <workItem from="1610101201024" duration="33000" />
-      <workItem from="1610101241312" duration="171000" />
+      <workItem from="1610101241312" duration="431000" />
     </task>
+    <task id="LOCAL-00001" summary="[新增功能](main): init">
+      <created>1610101447607</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610101447607</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[新增功能](main): init" />
+    <option name="LAST_COMMIT_MESSAGE" value="[新增功能](main): init" />
   </component>
 </project>

@@ -13,7 +13,7 @@ https://github.com/pangdahua/php7-wxwork-finance-sdk
 installExtWxworkFinanceSdk(){
   ln -s /lib/libc.musl-x86_64.so.1 /lib/ld-linux-x86-64.so.2 \
   && cd /tmp \
-  && curl -SL "http://git.emao.net/emao-public/wework-chatdata-sdk/repository/archive.tar.gz?ref=master" -o wxwork_finance_sdk.tar.gz \
+  && curl -SL "https://github.com/oh-stone/wework-chatdata-sdk/archive/v0.1.0.tar.gz \
   && mkdir -p wxwork_finance_sdk \
   && tar -xf wxwork_finance_sdk.tar.gz -C wxwork_finance_sdk --strip-components=1 \
   && ( \
